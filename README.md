@@ -1,7 +1,7 @@
 ﻿Windows Live Writer code paster
 ===
 
-_Pasting code copied from <your editor of choice> into Windows Live Writer_
+_Pasting code copied from &lt;your editor of choice&gt; into Windows Live Writer_
 
 Introduction
 ---
